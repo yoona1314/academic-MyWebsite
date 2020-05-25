@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xing Yu
 
 # Username (this should match the folder name)
 authors:
